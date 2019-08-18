@@ -4,12 +4,12 @@
   vars_prompt:
     - name: "eve_keyboard_search_keycode"
       prompt: "What keycode do you want the Search key to send? (see ansible/keycodes.txt)\n"
-      default: "leftmeta"
+      default: "capslock"
       private: no
 
     - name: "eve_keyboard_assistant_keycode"
       prompt: "What keycode do you want the Assistant key to send? (see ansible/keycodes.txt)\n"
-      default: "rightmeta"
+      default: "leftmeta"
       private: no
 
   tasks:

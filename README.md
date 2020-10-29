@@ -1,3 +1,6 @@
+# NOTE
+This repo is a clone, and some pulls from other folks work.  I make no claims this will work for you on your hardware.  Use this at your own risk.
+
 # Installing "real" linux on a Google Pixelbook
 
 This repo documents the process of replacing ChromeOS on a stock [Google Pixelbook][pixelbook_product_page]
